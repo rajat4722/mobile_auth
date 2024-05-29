@@ -105,7 +105,7 @@ class _LanguageSelectScreenState extends State<LanguageSelectScreen> {
                 padding: const EdgeInsets.all(10.0),
                 child: Column(
                   children: [
-                    Image.asset('assets/images/Vector.png', height: 50),
+                    Image.asset('assets/images/Vector.png', height: 100),
                   ],
                 ),
               ),
