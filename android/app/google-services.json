@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506861161157",
+    "project_id": "mobileauth-388a8",
+    "storage_bucket": "mobileauth-388a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506861161157:android:20d58620e1c536b3817eac",
+        "android_client_info": {
+          "package_name": "com.example.mobile_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVj6exN6Yrhh9FkAa4jhikQIPQjbKAiU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
